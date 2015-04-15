@@ -3,6 +3,6 @@ classes:
  - 'profile::base'
 
 ntp::servers:
-  - 0.us.pool.ntp.org
-  - 1.us.pool.ntp.org
+  - ntp1.dtw.nexcess.net
+  - ntp2.dtw.nexcess.net
 
